@@ -4,10 +4,12 @@ This is the extend version of the calendar developed by wix. Find full documenta
 
 ## IMPORTANT!!
 Please install moment before installing the library for it uses moment for some features
- https://github.com/moment/moment
+## https://github.com/moment/moment
 
 Please install react-native-vector-icons before installing project for the library uses ionicons
- https://github.com/oblador/react-native-vector-icons
+## https://github.com/oblador/react-native-vector-icons
+
+The theme file will be missing in the /src/calendar/header/index.js so remember to remove it and add ur own color.
 
 ## Installation 
 add this to ur dependencies
