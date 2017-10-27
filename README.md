@@ -16,6 +16,8 @@ add this to ur dependencies
                     "react-native-calendars": "git+https://github.com/eals/react-native-calender-pn-wix-extended.git",
           }
 ```
+then npm install
+
 ## Changes :
 - The month title bar is removed above days of the week
 - The month section now contain upcomming next three months
