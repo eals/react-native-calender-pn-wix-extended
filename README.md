@@ -2,14 +2,14 @@
 This is the extend version of the calendar developed by wix. Find full documentation in the link below:
 link:https://github.com/wix/react-native-calendars
 
-IMPORTANT!!
+## IMPORTANT!!
 Please install moment before installing the library for it uses moment for some features
 link:https://github.com/moment/moment
 
 Please install react-native-vector-icons before installing project for the library uses ionicons
 link:https://github.com/oblador/react-native-vector-icons
 
-### Changes :
+## Changes :
 - The month title bar is removed above days of the week
 - The month section now contain upcomming next three months
 - The banner section is added
