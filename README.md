@@ -1,13 +1,13 @@
 # react-native-calender-pn-wix-extended
 This is the extend version of the calendar developed by wix. Find full documentation in the link below:
-link : https://github.com/wix/react-native-calendars
+ https://github.com/wix/react-native-calendars
 
 ## IMPORTANT!!
 Please install moment before installing the library for it uses moment for some features
-link : https://github.com/moment/moment
+ https://github.com/moment/moment
 
 Please install react-native-vector-icons before installing project for the library uses ionicons
-link : https://github.com/oblador/react-native-vector-icons
+ https://github.com/oblador/react-native-vector-icons
 
 ## Installation 
 add this to ur dependencies
