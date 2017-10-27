@@ -9,6 +9,13 @@ link:https://github.com/moment/moment
 Please install react-native-vector-icons before installing project for the library uses ionicons
 link:https://github.com/oblador/react-native-vector-icons
 
+## Installation 
+add this to ur dependencies
+```
+          "dependencies": {
+                    "react-native-calendars": "git+https://github.com/eals/react-native-calender-pn-wix-extended.git",
+          }
+```
 ## Changes :
 - The month title bar is removed above days of the week
 - The month section now contain upcomming next three months
